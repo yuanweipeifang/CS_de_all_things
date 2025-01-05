@@ -1,0 +1,1 @@
+{"name":"Local: 06_3","url":"d:\\VScode_Workplace\\C\\Data_Structure_Theory\\06_3.c","tests":[{"id":1715673237774,"input":"*+a(###b#)##c##","output":"(a+b)*c"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VScode_Workplace\\C\\Data_Structure_Theory\\06_3.c","group":"local","local":true}

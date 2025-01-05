@@ -1,0 +1,1 @@
+{"name":"Local: 07_2","url":"d:\\VScode_Workplace\\C\\Data_Structure_Theory\\07_2.c","tests":[{"id":1715679937860,"input":"4 4\n1 2 3 4\n1 2\n1 3\n1 4\n2 3\n2 3","output":"yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VScode_Workplace\\C\\Data_Structure_Theory\\07_2.c","group":"local","local":true}

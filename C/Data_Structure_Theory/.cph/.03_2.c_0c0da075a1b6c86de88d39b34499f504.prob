@@ -1,0 +1,1 @@
+{"name":"Local: 03_2","url":"d:\\code\\C\\Data_Structure_Theory\\03_2.c","tests":[{"id":1712994539889,"input":"(a+b)*c","output":"ab+c*"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\C\\Data_Structure_Theory\\03_2.c","group":"local","local":true}
