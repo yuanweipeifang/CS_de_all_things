@@ -1,0 +1,1 @@
+{"name":"Local: Array_List_lab","url":"d:\\VScode_Workplace\\C\\Data_Structure\\Array_List_lab.c","tests":[{"id":1717932112721,"input":"2\n1 2\n3\n1 2 3","output":"1 1 2 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VScode_Workplace\\C\\Data_Structure\\Array_List_lab.c","group":"local","local":true}

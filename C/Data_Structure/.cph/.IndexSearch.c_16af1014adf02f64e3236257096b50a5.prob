@@ -1,0 +1,1 @@
+{"name":"Local: IndexSearch","url":"d:\\code\\C\\Data_Structure\\IndexSearch.c","tests":[{"id":1715003065464,"input":"6\n9 1 2 3 4 5\n2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\C\\Data_Structure\\IndexSearch.c","group":"local","local":true}
